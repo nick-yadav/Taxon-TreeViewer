@@ -1,0 +1,340 @@
+Taxon,Scientific name,Parent,PICount
+2759,Eukaryota,131567,415
+3193,Embryophyta,131221,415
+3244,Selaginellales,1521260,7
+3245,Selaginellaceae,3244,7
+3246,Selaginella,3245,7
+3398,Magnoliophyta,58024,408
+3475,Parasponia,3481,1
+3476,Parasponia andersonii,3475,1
+3479,Trema,3481,1
+3481,Cannabaceae,3744,2
+3487,Moraceae,3744,1
+3497,Morus,3487,1
+3502,Fagales,91835,2
+3503,Fagaceae,3502,1
+3524,Caryophyllales,1437201,1
+3561,Spinacia,1307775,1
+3562,Spinacia oleracea,3561,1
+3602,Vitaceae,403667,3
+3603,Vitis,2304100,3
+3646,Malpighiales,91835,6
+3688,Salicaceae,3646,2
+3689,Populus,238069,2
+3694,Populus trichocarpa,3689,1
+3699,Brassicales,91836,13
+3700,Brassicaceae,3699,13
+3701,Arabidopsis,980083,3
+3702,Arabidopsis thaliana,3701,2
+3705,Brassica,981071,5
+3711,Brassica campestris,3705,2
+3712,Brassica oleracea,3705,2
+3718,Capsella,980083,1
+3744,Rosales,91835,15
+3745,Rosaceae,3744,12
+3754,Prunus,721805,7
+3755,Prunus dulcis,3754,3
+3759,Prunus yedoensis,3754,1
+3760,Prunus persica,3754,3
+3764,Rosa,1176516,5
+3803,Fabaceae,72025,9
+3814,Papilionoideae,3803,9
+3817,Arachis,2231390,4
+3818,Arachis hypogaea,3817,4
+3826,Cicer,163722,1
+3827,Cicer arietinum,3826,1
+3869,Lupinus,163729,1
+3871,Lupinus angustifolius,3869,1
+3877,Medicago,163742,2
+3880,Medicago truncatula,3877,2
+3928,Lythraceae,41944,1
+3931,Myrtaceae,41944,1
+3932,Eucalyptus,1699524,1
+3977,Euphorbiaceae,3646,4
+3982,Manihot,235883,2
+3983,Manihot esculenta,3982,2
+3987,Ricinus,235880,1
+3988,Ricinus communis,3987,1
+3995,Jatropha,235887,1
+4036,Apiales,91882,1
+4037,Apiaceae,364270,1
+4038,Daucus,241799,1
+4039,Daucus carota,1873447,1
+4055,Gentianales,91888,6
+4069,Solanales,91888,285
+4070,Solanaceae,4069,277
+4071,Capsicum,424564,123
+4072,Capsicum annuum,4071,99
+4081,Solanum lycopersicum,49274,21
+4085,Nicotiana,424562,65
+4086,Nicotiana acuminata,4085,1
+4087,Nicotiana alata,4085,2
+4093,Nicotiana rustica,4085,1
+4096,Nicotiana sylvestris,4085,10
+4097,Nicotiana tabacum,4085,22
+4100,Nicotiana benthamiana,4085,1
+4107,Solanum,424574,88
+4108,Solanum chacoense,4107,5
+4111,Solanum melongena,4107,1
+4112,Solanum nigrum,4107,4
+4113,Solanum tuberosum,4107,52
+4118,Convolvulaceae,4069,8
+4128,Cuscuta,292919,8
+4136,Lamiaceae,4143,1
+4143,Lamiales,91888,9
+4144,Oleaceae,4143,1
+4145,Olea,426106,1
+4146,Olea europaea,4145,1
+4155,Erythranthe guttata,1502711,1
+4196,Lentibulariaceae,4143,2
+4441,Camellia,27065,1
+4442,Camellia sinensis,4441,1
+4447,Liliopsida,1437183,55
+4479,Poaceae,38820,49
+4480,Aegilops,1648030,3
+4512,Hordeum,1648017,1
+4513,Hordeum vulgare,4512,1
+4527,Oryza,1648021,11
+4529,Oryza rufipogon,4527,1
+4530,Oryza sativa,4527,4
+4533,Oryza brachyantha,4527,1
+4536,Oryza nivara,4530,1
+4537,Oryza punctata,4527,1
+4538,Oryza glaberrima,4527,1
+4539,Panicum,1293365,8
+4540,Panicum miliaceum,4539,3
+4546,Saccharum,1648026,2
+4554,Setaria,1293361,3
+4555,Setaria italica,4554,2
+4556,Setaria viridis,4554,1
+4557,Sorghum,1648028,3
+4558,Sorghum bicolor,4557,3
+4564,Triticum,1648030,5
+4565,Triticum aestivum,4564,3
+4567,Triticum turgidum subsp. durum,4571,1
+4571,Triticum turgidum,4564,1
+4572,Triticum urartu,4564,1
+4575,Zea,1648029,2
+4577,Zea mays,4575,2
+4613,Bromeliaceae,38820,3
+4614,Ananas,1909378,3
+4615,Ananas comosus,4614,3
+4618,Zingiberales,4734,1
+4637,Musaceae,4618,1
+4640,Musa,4637,1
+4734,commelinids,1437197,53
+4747,Orchidaceae,73496,2
+13442,Coffea,169640,6
+15367,Brachypodium,147385,2
+15368,Brachypodium distachyon,15367,2
+16714,Juglandaceae,3502,1
+16718,Juglans,16714,1
+21024,Fagus,3503,1
+21880,Salvia,216718,1
+22662,Punica,3928,1
+22663,Punica granatum,22662,1
+24079,Bignoniaceae,4143,3
+24609,Atropa,424566,1
+24966,Rubiaceae,4055,6
+26122,Gesneriaceae,4143,1
+27065,Theaceae,41945,1
+28930,Fagus sylvatica,21024,1
+29760,Vitis vinifera,3603,3
+33090,Viridiplantae,2759,415
+33113,Atropa belladonna,24609,1
+33114,Capsicum baccatum,4071,11
+35493,Streptophyta,33090,415
+35711,Leersia,1648021,2
+35889,Nicotiana glutinosa,4085,2
+37682,Aegilops tauschii,4480,3
+37818,Dendrobium,158406,1
+38413,Eragrostis,751752,3
+38414,Eragrostis curvula,38413,3
+38820,Poales,4734,52
+39946,Oryza sativa subsp. indica,4530,1
+39947,Oryza sativa subsp. japonica,4530,2
+40148,Oryza glumipatula,4527,1
+40149,Oryza meridionalis,4527,1
+40336,Mucuna,163735,1
+41399,Phrymaceae,4143,1
+41944,Myrtales,91836,2
+41945,Ericales,71274,1
+43335,Populus alba,3689,1
+49274,Lycopersicon,4107,21
+49390,Coffea canephora,13442,6
+49451,Nicotiana attenuata,4085,11
+49693,Apostasia,158329,1
+51240,Juglans regia,16718,1
+51351,Brassica rapa subsp. pekinensis,3711,1
+52838,Musa balbisiana,4640,1
+58023,Tracheophyta,3193,415
+58024,Spermatophyta,78536,408
+59689,Arabidopsis lyrata,3701,1
+63057,Trema orientale,3479,1
+65489,Oryza barthii,4527,1
+69181,Brassica cretica,3705,1
+71139,Eucalyptus grandis,3932,1
+71240,eudicotyledons,1437183,353
+71274,asterids,1437201,302
+71275,rosids,1437201,50
+72025,Fabales,91835,9
+73496,Asparagales,1437197,2
+74649,Rosa chinensis,3764,5
+76336,Nicotiana repanda,4085,1
+77586,Leersia perrieri,35711,2
+78536,Euphyllophyta,58023,408
+79200,Daucus carota subsp. sativus,4039,1
+80379,Capsicum chinense,4071,13
+81866,Nicotiana clevelandii,4085,1
+81972,Arabidopsis lyrata subsp. lyrata,59689,1
+81985,Capsella rubella,3718,1
+88036,Selaginella moellendorffii,3246,7
+91827,Gunneridae,71240,353
+91834,rosids incertae sedis,71275,3
+91835,fabids,71275,32
+91836,malvids,71275,15
+91882,campanulids,71274,1
+91888,lamiids,71274,300
+107243,Noccaea caerulescens,290573,4
+109376,Brassica oleracea var. oleracea,3712,1
+109975,Solanum americanum,4107,4
+112509,Hordeum vulgare subsp. vulgare,4513,1
+118690,Nicotiana cavicola,4085,1
+118701,Nicotiana linearis,4085,1
+118703,Nicotiana megalosiphon,4085,1
+118704,Nicotiana miersii,4085,1
+118709,Nicotiana simulans,4085,1
+118712,Nicotiana umbratica,4085,1
+128810,Saccharum hybrid cultivar,286192,2
+131158,Saccharum hybrid cultivar R570,128810,2
+131221,Streptophytina,35493,415
+131567,cellular organisms,,415
+132261,Cuscuta campestris,1824901,4
+147367,Oryzoideae,359160,13
+147368,Pooideae,359160,11
+147369,Panicoideae,147370,22
+147370,PACMAD clade,4479,25
+147371,Chloridoideae,147370,3
+147380,Oryzeae,147367,13
+147385,Brachypodieae,147368,2
+147389,Triticeae,1648038,9
+147428,Paniceae,1648036,15
+147429,Andropogoneae,1648033,7
+147436,Eragrostideae,147371,3
+157652,Mucuna pruriens,40336,1
+158329,Apostasioideae,4747,1
+158332,Epidendroideae,4747,1
+158393,Malaxideae,158332,1
+158406,Dendrobiinae,158393,1
+161620,Dichanthelium,1648011,4
+163722,Cicereae,2233839,1
+163725,Dalbergieae,2231387,4
+163729,Genisteae,2231385,1
+163735,Phaseoleae,2233855,1
+163742,Trifolieae,2233839,2
+169618,Ixoroideae,24966,6
+169640,Coffeeae,1968428,6
+171637,Amygdaloideae,3745,7
+171638,Rosoideae,3745,5
+172790,Solanum phureja,4107,1
+180498,Jatropha curcas,3995,1
+180675,Salvia splendens,2026556,1
+192258,Genlisea,4196,2
+192259,Genlisea aurea,192258,2
+200300,Nicotiana spegazzinii,4085,1
+200301,Nicotiana corymbosa,4085,1
+200306,Nicotiana occidentalis subsp. hesperis,200313,1
+200313,Nicotiana occidentalis,4085,1
+200315,Nicotiana pauciflora,4085,1
+200316,Nicotiana obtusifolia,4085,2
+200361,Aegilops tauschii subsp. strangulata,37682,2
+206008,Panicum hallii,2100772,5
+214597,Didymocarpoideae,26122,1
+214607,Trichosporeae,214597,1
+216706,Nepetoideae,4136,1
+216718,Mentheae,216706,1
+235629,Acalyphoideae,3977,1
+235631,Crotonoideae,3977,3
+235880,Acalypheae,235629,1
+235883,Manihoteae,235631,2
+235887,Jatropheae,235631,1
+238069,Saliceae,3688,2
+241778,Apioideae,4037,1
+241789,Scandiceae,241778,1
+241799,Daucinae,241789,1
+267555,Cuscuta australis,1824901,4
+278839,Nicotiana quadrivalvis,4085,1
+286192,Saccharum officinarum complex,4546,2
+290573,Noccaea,1394505,4
+292919,Cuscuteae,4118,8
+359160,BOP clade,4479,24
+364270,Apiineae,4036,1
+403667,Vitales,91834,3
+424551,Solanoideae,4070,212
+424554,Nicotianoideae,4070,65
+424562,Nicotianeae,424554,65
+424564,Capsiceae,424551,123
+424566,Hyoscyameae,424551,1
+424574,Solaneae,424551,88
+426106,Oleeae,4144,1
+429701,Handroanthus impetiginosus,1288022,3
+472368,Dorcoceras hygrometricum,1803640,1
+542762,Camellia sinensis var. sinensis,4442,1
+721805,Amygdaleae,171637,7
+751752,Eragrostidinae,147436,3
+888268,Dichanthelium oligosanthes,161620,4
+906689,Dendrobium catenatum,37818,1
+980083,Camelineae,3700,4
+981071,Brassiceae,3700,5
+981085,Morus notabilis,3497,1
+1088818,Apostasia shenzhenica,49693,1
+1176516,Rosoideae unplaced,171638,5
+1288022,Handroanthus,1312865,3
+1293361,Cenchrinae,147428,3
+1293365,Panicinae,147428,8
+1307775,Anserineae,1307796,1
+1307796,Chenopodioideae,1804623,1
+1312864,Crescentiina,24079,3
+1312865,Tabebuia alliance,1312864,3
+1394505,Coluteocarpeae,3700,4
+1437183,Mesangiospermae,3398,408
+1437197,Petrosaviidae,4447,55
+1437201,Pentapetalae,91827,353
+1478967,Loxocarpinae,214607,1
+1502711,Erythranthe,41399,1
+1504633,Panicum hallii var. hallii,206008,4
+1521260,Lycopodiopsida,58023,7
+1648011,Dichantheliinae,147428,4
+1648017,Hordeinae,147389,1
+1648021,Oryzinae,147380,13
+1648026,Saccharinae,147429,2
+1648028,Sorghinae,147429,3
+1648029,Tripsacinae,147429,2
+1648030,Triticinae,147389,8
+1648033,Andropogonodae,147369,7
+1648036,Panicodae,147369,15
+1648038,Triticodae,147368,9
+1699513,Myrtoideae,3931,1
+1699524,Eucalypteae,1699513,1
+1803640,Dorcoceras,1478967,1
+1804623,Chenopodiaceae,3524,1
+1824618,Grammica,4128,8
+1824901,Cuscuta sect. Cleistogrammica,1824618,8
+1873447,Daucus sect. Daucus,4038,1
+1909378,Bromelioideae,4613,3
+1968428,Bertiereae - Coffeeae clade,1968429,6
+1968429,Gardenieae complex,169618,6
+2026555,Calosphace,21880,1
+2026556,core Calosphace,2026555,1
+2094558,Prunus yedoensis var. nudiflora,3759,1
+2100772,Panicum sect. Panicum,4539,5
+2231382,NPAAA clade,2231393,4
+2231384,genistoids sensu lato,2231393,1
+2231385,core genistoids,2231384,1
+2231387,dalbergioids sensu lato,2231393,4
+2231390,Pterocarpus clade,163725,4
+2231393,50 kb inversion clade,3814,9
+2233838,Hologalegina,2231382,3
+2233839,IRL clade,2233838,3
+2233855,indigoferoid/millettioid clade,2231382,1
+2304100,Viteae,3602,3

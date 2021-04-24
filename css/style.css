@@ -1,0 +1,44 @@
+body{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: 0;
+  }
+#logo {
+    height:50px;
+  }
+  
+.navbar-brand {
+    height: 60px;
+    padding: 5px 0px;
+  }
+  #selections .col-md-4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .link {
+    fill: none;
+    stroke: #555;
+    stroke-opacity: 0.4;
+    stroke-width: 1.5px;
+}
+.node circle {
+    fill: #fff;
+    stroke: #d46800;
+    stroke-width: 2px;
+  }
+  
+  .node text {
+    font: 12px sans-serif;
+  }
+  text{
+    text-shadow: 
+        -1px -1px 3px white,
+        -1px  1px 3px white,
+         1px -1px 3px white,
+         1px  1px 3px white;
+    pointer-events: none;
+    font-family: 'Playfair Display', serif;
+}
